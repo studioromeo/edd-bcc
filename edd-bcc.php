@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: EDD Reciepts BCC
+Plugin Name: EDD Receipts BCC
 Plugin Uri: https://github.com/studioromeo/edd-bcc
-Description: Extends Easy Digital Downloads to send recipts BCC too
+Description: Extends Easy Digital Downloads to send receipts BCC too
 Version: 1.0
 Author: Robert Rhoades
 Author Uri: http://studioromeo.co.uk
